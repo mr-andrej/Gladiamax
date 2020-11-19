@@ -1820,13 +1820,11 @@
                 <h2>Sign up</h2>
                 <p>Fill out the form below to recieve a free and confidential</p>
             </div>
-            <form action="#" class="signup-form">
+            <form action="signup.php" class="signup-form">
                 <div class="sf-input-list">
-                    <input type="text" class="input-value" placeholder="User Name*">
-                    <input type="text" class="input-value" placeholder="Password">
-                    <input type="text" class="input-value" placeholder="Confirm Password">
-                    <input type="text" class="input-value" placeholder="Email Address">
-                    <input type="text" class="input-value" placeholder="Full Name">
+                    <input type="text" name="name" class="input-value" placeholder="Name">
+                    <input type="text" name="email" class="input-value" placeholder="Email Address">
+                    <input type="password" name="password" class="input-value" placeholder="Password">
                 </div>
                 <div class="radio-check">
                     <label for="rc-agree">I agree with the term & conditions
@@ -1835,6 +1833,14 @@
                     </label>
                 </div>
                 <button type="submit"><span>REGISTER NOW</span></button>
+            </form>
+            <br>
+            <form action="login.php" class="signup-form">
+                <div class="sf-input-list">
+                    <input type="text" name="email" class="input-value" placeholder="Email Address">
+                    <input type="password" name="password" class="input-value" placeholder="Password">
+                </div>
+                <button type="submit"><span>LOG IN</span></button>
             </form>
         </div>
     </div>

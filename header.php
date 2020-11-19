@@ -6,8 +6,8 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="ht-widget">
                         <ul>
-                            <li><i class="fa fa-sun-o"></i> <span>20<sup>c</sup></span> London</li>
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                            <li><i class="fa fa-sun-o"></i> <span>20<sup>c</sup></span> London</li> <!-- API CITY AND TEMPERATURE -->
+                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li> <!-- CORRECT DATE -->
                             <li class="signup-switch signup-open"><i class="fa fa-sign-out"></i> Login / Sign up
                             </li>
                         </ul>
