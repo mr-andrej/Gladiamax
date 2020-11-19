@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost:3306
--- Généré le : jeu. 19 nov. 2020 à 17:35
+-- Généré le : jeu. 19 nov. 2020 à 18:03
 -- Version du serveur :  8.0.22-0ubuntu0.20.04.2
 -- Version de PHP : 7.4.3
 
@@ -30,13 +30,8 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `category` (
   `id` int NOT NULL,
-  `murmillo` varchar(80) NOT NULL,
-  `samnite` varchar(80) NOT NULL,
-  `secutor` varchar(80) NOT NULL,
-  `thraex` varchar(80) NOT NULL,
-  `bestiarius` varchar(80) NOT NULL,
-  `provocator` varchar(80) NOT NULL,
-  `retiarious` varchar(80) NOT NULL
+  ` name` varchar(80) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  `description` mediumtext CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- --------------------------------------------------------
