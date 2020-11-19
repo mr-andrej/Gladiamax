@@ -1,4 +1,6 @@
 <!-- Humberger Menu Begin -->
+<?php session_start(); ?>
+
 <div class="humberger-menu-overlay"></div>
 <div class="humberger-menu-wrapper">
     <div class="hw-logo">
