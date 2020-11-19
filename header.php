@@ -1,4 +1,6 @@
 <!-- Header Section Begin -->
+<?php session_start(); ?>
+
 <header class="header-section">
     <div class="ht-options">
         <div class="container">
