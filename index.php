@@ -1822,11 +1822,9 @@
             </div>
             <form action="#" class="signup-form">
                 <div class="sf-input-list">
-                    <input type="text" class="input-value" placeholder="User Name*">
-                    <input type="text" class="input-value" placeholder="Password">
-                    <input type="text" class="input-value" placeholder="Confirm Password">
-                    <input type="text" class="input-value" placeholder="Email Address">
-                    <input type="text" class="input-value" placeholder="Full Name">
+                    <input type="text" name="name" class="input-value" placeholder="Name">
+                    <input type="text" name="email" class="input-value" placeholder="Email Address">
+                    <input type="text" name="password" class="input-value" placeholder="Password">
                 </div>
                 <div class="radio-check">
                     <label for="rc-agree">I agree with the term & conditions

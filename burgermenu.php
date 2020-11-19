@@ -1,4 +1,6 @@
-<!-- Humberger Menu Begin -->
+<!-- Hamburger Menu Begin -->
+<?php session_start(); ?>
+
 <div class="humberger-menu-overlay"></div>
 <div class="humberger-menu-wrapper">
     <div class="hw-logo">
@@ -66,4 +68,4 @@
         </div>
     </div>
 </div>
-<!-- Humberger Menu End -->
+<!-- Hamburger Menu End -->
