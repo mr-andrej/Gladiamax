@@ -1,4 +1,9 @@
 <!-- Humberger Menu Begin -->
+<?php session_start();
+require "connec.php";
+
+?>
+
 <div class="humberger-menu-overlay"></div>
 <div class="humberger-menu-wrapper">
     <div class="hw-logo">
@@ -6,48 +11,22 @@
     </div>
     <div class="hw-menu mobile-menu">
         <ul>
-            <li><a href="./index.html">Home</a></li>
-            <li><a href="#">Pages <i class="fa fa-angle-down"></i></a>
+            <li><a href="./index.php">Home</a></li>
+            <li><a href="./gladiators.php"><span>Gladiators </span></a></li>
+            <li><a href="./arenas.php"><span>Arenas </span></a></li>
+            <li><a href="./types.php"><span>Fighting Styles </span></a></li>
+            <li><a href="./statistics.php"><span>Statistics </span></a></li>
+
+
+            <li><a href="#">Admin <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown">
-                    <li><a href="./categories-list.html">Categories</a></li>
-                    <li><a href="./categories-grid.html">Categories grid</a></li>
-                    <li><a href="./typography.html">Typography</a></li>
-                    <li><a href="./details-post-default.html">Post default</a></li>
-                    <li><a href="./details-post-gallery.html">Post gallery</a></li>
-                    <li><a href="./details-post-review.html">Post review</a></li>
-                    <li><a href="./contact.html">Contact</a></li>
-                </ul>
-            </li>
-            <li><a href="#">Reviews <i class="fa fa-angle-down"></i></a>
-                <ul class="dropdown">
-                    <li><a href="#">Playstation</a></li>
-                    <li><a href="#">Windows</a></li>
-                    <li><a href="#">Mobile</a></li>
-                    <li><a href="#">Xbox</a></li>
-                </ul>
-            </li>
-            <li><a href="#">Windows <i class="fa fa-angle-down"></i></a>
-                <ul class="dropdown">
-                    <li><a href="#">Playstation</a></li>
-                    <li><a href="#">Windows</a></li>
-                    <li><a href="#">Mobile</a></li>
-                    <li><a href="#">Xbox</a></li>
-                </ul>
-            </li>
-            <li><a href="#">Videos <i class="fa fa-angle-down"></i></a>
-                <ul class="dropdown">
-                    <li><a href="#">Playstation</a></li>
-                    <li><a href="#">Windows</a></li>
-                    <li><a href="#">Mobile</a></li>
-                    <li><a href="#">Xbox</a></li>
+                    <li><a href="./users_crud.php">Users</a></li>
+                    <li><a href="./gladiators_crud.php">Gladiators</a></li>
                 </ul>
             </li>
         </ul>
     </div>
     <div id="mobile-menu-wrap"></div>
-    <div class="hw-copyright">
-        Copyright © 2019 Colorlib Inc. All rights reserved
-    </div>
     <div class="hw-social">
         <a href="#"><i class="fa fa-facebook"></i></a>
         <a href="#"><i class="fa fa-twitter"></i></a>

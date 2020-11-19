@@ -13,18 +13,20 @@
 
     $.fn.barfiller = function (options) {
 
-        var defaults = $.extend({
-            barColor: '#16b597',
-            tooltip: true,
-            duration: 1000,
-            animateOnResize: true,
-            symbol: "%"
-        }, options);
+        var defaults = $.extend(
+            {
+                barColor: '#16b597',
+                tooltip: true,
+                duration: 1000,
+                animateOnResize: true,
+                symbol: "%"
+            }, options
+        );
 
 
         /******************************
         Private Variables
-        *******************************/         
+         *******************************/         
 
         var object = $(this);
         var settings = $.extend(defaults, options);
@@ -38,28 +40,30 @@
 
         /******************************
         Public Methods
-        *******************************/         
+         *******************************/         
         
         var methods = {
 
-            init: function() {
-                return this.each(function () {
-                    if(methods.getTransitionSupport()) {
-                        transitionSupport = true;
-                        transitionPrefix = methods.getTransitionPrefix();
-                    }
+            init: function () {
+                return this.each(
+                    function () {
+                        if(methods.getTransitionSupport()) {
+                            transitionSupport = true;
+                            transitionPrefix = methods.getTransitionPrefix();
+                        }
 
-                    methods.appendHTML();
-                    methods.setEventHandlers();
-                    methods.initializeItems();
-                });
+                        methods.appendHTML();
+                        methods.setEventHandlers();
+                        methods.initializeItems();
+                    }
+                );
             },
 
             /******************************
             Append HTML
-            *******************************/			
+             *******************************/            
 
-            appendHTML: function() {
+            appendHTML: function () {
                 fill.css('background', settings.barColor);
 
                 if(!settings.tooltip) {
@@ -71,41 +75,46 @@
 
             /******************************
             Set Event Handlers
-            *******************************/
-            setEventHandlers: function() {
+             *******************************/
+            setEventHandlers: function () {
                 if(settings.animateOnResize) {
-                    $(window).on("resize", function(event){
-                        clearTimeout(resizeTimeout);
-                        resizeTimeout = setTimeout(function() { 
-                        methods.refill(); 
-                        }, 300);
-                    });				
+                    $(window).on(
+                        "resize", function (event) {
+                            clearTimeout(resizeTimeout);
+                            resizeTimeout = setTimeout(
+                                function () { 
+                                    methods.refill(); 
+                                }, 300
+                            );
+                        }
+                    );                
                 }
-            },				
+            },                
 
             /******************************
             Initialize
-            *******************************/			
+             *******************************/            
 
-            initializeItems: function() {
-            var pctWidth = methods.calculateFill(fillPercentage);
-            object.find('.tipWrap').css({ display: 'inline' });
+            initializeItems: function () {
+                var pctWidth = methods.calculateFill(fillPercentage);
+                object.find('.tipWrap').css({ display: 'inline' });
 
-            if(transitionSupport)
-                methods.transitionFill(pctWidth);
-            else
-                methods.animateFill(pctWidth);
+                if(transitionSupport) {
+                    methods.transitionFill(pctWidth);
+                } else {
+                    methods.animateFill(pctWidth);
+                }
             },
 
-            getTransitionSupport: function() {
+            getTransitionSupport: function () {
 
                 var thisBody = document.body || document.documentElement,
                 thisStyle = thisBody.style;
                 var support = thisStyle.transition !== undefined || thisStyle.WebkitTransition !== undefined || thisStyle.MozTransition !== undefined || thisStyle.MsTransition !== undefined || thisStyle.OTransition !== undefined;
-                return support; 	
+                return support;     
             },
                 
-            getTransitionPrefix: function() {
+            getTransitionPrefix: function () {
                 if(/mozilla/.test(navigator.userAgent.toLowerCase()) && !/webkit/.test(navigator.userAgent.toLowerCase())) {
                     return '-moz-transition';
                 }
@@ -123,7 +132,7 @@
                 }
             },
 
-            getTransition: function(val, time, type) {
+            getTransition: function (val, time, type) {
 
                 var CSSObj;
                 if(type === 'width') {
@@ -134,46 +143,46 @@
                 }
 
                 time = time/1000;
-                CSSObj[transitionPrefix] = type+' '+time+'s ease-in-out';		    
+                CSSObj[transitionPrefix] = type+' '+time+'s ease-in-out';            
                 return CSSObj;
 
-            },				
+            },                
 
-            refill: function() {
+            refill: function () {
                 fill.css('width', 0);
                 toolTip.css('left', 0);
                 barWidth = object.width();
                 methods.initializeItems();
             },
 
-            calculateFill: function(percentage) {
+            calculateFill: function (percentage) {
                 percentage = percentage *  0.01;
                 var finalWidth = barWidth * percentage;
                 return finalWidth;
             },       
 
-            transitionFill: function(barWidth) {
+            transitionFill: function (barWidth) {
 
                 var toolTipOffset = barWidth - toolTip.width();
-                fill.css( methods.getTransition(barWidth, settings.duration, 'width'));
-                toolTip.css( methods.getTransition(toolTipOffset, settings.duration, 'left'));
+                fill.css(methods.getTransition(barWidth, settings.duration, 'width'));
+                toolTip.css(methods.getTransition(toolTipOffset, settings.duration, 'left'));
 
-            },	
+            },    
 
-            animateFill: function(barWidth) {
+            animateFill: function (barWidth) {
                 var toolTipOffset = barWidth - toolTip.width();
                 fill.stop().animate({width: '+=' + barWidth}, settings.duration);
                 toolTip.stop().animate({left: '+=' + toolTipOffset}, settings.duration);
             }
-			
+            
         };
         
-        if (methods[options]) { 	// $("#element").pluginName('methodName', 'arg1', 'arg2');
+        if (methods[options]) {     // $("#element").pluginName('methodName', 'arg1', 'arg2');
             return methods[options].apply(this, Array.prototype.slice.call(arguments, 1));
-        } else if (typeof options === 'object' || !options) { 	// $("#element").pluginName({ option: 1, option:2 });
+        } else if (typeof options === 'object' || !options) {     // $("#element").pluginName({ option: 1, option:2 });
             return methods.init.apply(this);  
         } else {
-            $.error( 'Method "' +  method + '" does not exist in barfiller plugin!');
+            $.error('Method "' +  method + '" does not exist in barfiller plugin!');
         } 
     };
 

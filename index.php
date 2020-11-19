@@ -2,12 +2,14 @@
 <html lang="zxx">
 
 <head>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+
     <meta charset="UTF-8">
     <meta name="description" content="Amin Template">
     <meta name="keywords" content="Amin, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Amin | Template</title>
+    <title>Gladiamax</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap"
@@ -31,9 +33,9 @@
     <div class="loader"></div>
 </div>
 
-<?php include "burgermenu.php" ?>
+<?php require "burgermenu.php" ?>
 
-<?php include "header.php" ?>
+<?php require "header.php" ?>
 
 <!-- Hero Section Begin -->
 <section class="hero-section">
@@ -55,7 +57,7 @@
             <div class="col-xl-4 col-lg-5 col-md-6 offset-lg-1 offset-xl-2">
                 <div class="trending-post">
                     <div class="section-title">
-                        <h5>Treding posts</h5>
+                        <h5>Latest news</h5>
                     </div>
                     <div class="trending-slider owl-carousel">
                         <div class="single-trending-item">
@@ -98,73 +100,6 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-4.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-trending-item">
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-5.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-6.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Valve updates Steam's new Interactive Reco- mmender, teases
-                                            a...</a></h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-7.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-8.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -172,9 +107,9 @@
         </div>
     </div>
     <div class="hero-slider owl-carousel">
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-1.jpg"></div>
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-2.jpg"></div>
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-3.jpg"></div>
+        <video loop muted autoplay class="background-video">
+            <source src="img/hero/back-1.mp4" type="video/mp4">
+        </video>
     </div>
 </section>
 <!-- Hero Section End -->
@@ -1788,14 +1723,7 @@
         <div class="copyright-area">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="ca-text">
-                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                            All rights reserved | This template is made with <i class="fa fa-heart"
-                                                                                aria-hidden="true"></i> by <a
-                                    href="https://colorlib.com" target="_blank">Colorlib</a>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                    </div>
+
                 </div>
                 <div class="col-lg-6">
                     <div class="ca-links">
@@ -1811,35 +1739,7 @@
 </footer>
 <!-- Footer Section End -->
 
-<!-- Sign Up Section Begin -->
-<div class="signup-section">
-    <div class="signup-close"><i class="fa fa-close"></i></div>
-    <div class="signup-text">
-        <div class="container">
-            <div class="signup-title">
-                <h2>Sign up</h2>
-                <p>Fill out the form below to recieve a free and confidential</p>
-            </div>
-            <form action="#" class="signup-form">
-                <div class="sf-input-list">
-                    <input type="text" class="input-value" placeholder="User Name*">
-                    <input type="text" class="input-value" placeholder="Password">
-                    <input type="text" class="input-value" placeholder="Confirm Password">
-                    <input type="text" class="input-value" placeholder="Email Address">
-                    <input type="text" class="input-value" placeholder="Full Name">
-                </div>
-                <div class="radio-check">
-                    <label for="rc-agree">I agree with the term & conditions
-                        <input type="checkbox" id="rc-agree">
-                        <span class="checkbox"></span>
-                    </label>
-                </div>
-                <button type="submit"><span>REGISTER NOW</span></button>
-            </form>
-        </div>
-    </div>
-</div>
-<!-- Sign Up Section End -->
+<?php require "signup.php" ?>
 
 <!-- Search model Begin -->
 <div class="search-model">
