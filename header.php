@@ -8,9 +8,20 @@
                     <div class="ht-widget">
                         <ul>
                             <li><i class="fa fa-sun-o"></i> <span>20<sup>c</sup></span> London</li>
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                            <li class="signup-switch signup-open"><i class="fa fa-sign-out"></i> Login / Sign up
-                            </li>
+                            <!-- API CITY AND TEMPERATURE -->
+                            <li><i class="fa fa-clock-o"></i> <?php echo date("D j M, Y"); ?></li> <!-- CORRECT DATE -->
+                            <li class="signup-switch signup-open"><i class="fa fa-sign-out">
+                                    <?php
+                                    if ((isset($_SESSION['email']))) {
+                                        echo '<a href="disconnect.php" style="color: inherit;">Disconnect</a>';
+                                    }
+                                    ?>
+                                </i>
+                                <?php
+                                if (!(isset($_SESSION['email']))) {
+                                    echo "Sign up / Login";
+                                }
+                                ?>
                         </ul>
                     </div>
                 </div>
@@ -40,104 +51,21 @@
             <div class="humberger-menu humberger-open">
                 <i class="fa fa-bars"></i>
             </div>
-            <div class="nav-search search-switch">
-                <i class="fa fa-search"></i>
-            </div>
+
             <div class="nav-menu">
                 <ul>
-                    <li class="active"><a href="./index.html"><span>Home</span></a></li>
-                    <li class="mega-menu"><a href="#"><span>Platform <i class="fa fa-angle-down"></i></span></a>
-                        <div class="megamenu-wrapper">
-                            <ul class="mw-nav">
-                                <li><a href="#"><span>Playstation</span></a></li>
-                                <li><a href="#"><span>Windows</span></a></li>
-                                <li><a href="#"><span>Mobile</span></a></li>
-                                <li><a href="#"><span>Xbox</span></a></li>
-                            </ul>
-                            <div class="mw-post">
-                                <div class="mw-post-item">
-                                    <div class="mw-pic">
-                                        <img src="img/megamenu/mm-1.jpg" alt="">
-                                    </div>
-                                    <div class="mw-text">
-                                        <h6><a href="#">A Monster Prom poster got hijacked for a Papa Roach
-                                                concert...</a></h6>
-                                        <ul>
-                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                            <li><i class="fa fa-comment-o"></i> 12</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="mw-post-item">
-                                    <div class="mw-pic">
-                                        <img src="img/megamenu/mm-2.jpg" alt="">
-                                    </div>
-                                    <div class="mw-text">
-                                        <h6><a href="#">A new Borderlands 3 trailer introduces Moze and her...</a>
-                                        </h6>
-                                        <ul>
-                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                            <li><i class="fa fa-comment-o"></i> 12</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="mw-post-item">
-                                    <div class="mw-pic">
-                                        <img src="img/megamenu/mm-3.jpg" alt="">
-                                    </div>
-                                    <div class="mw-text">
-                                        <h6><a href="#">Teamfight Tactics is in chaos after today's patch...</a>
-                                        </h6>
-                                        <ul>
-                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                            <li><i class="fa fa-comment-o"></i> 12</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="mw-post-item">
-                                    <div class="mw-pic">
-                                        <img src="img/megamenu/mm-4.jpg" alt="">
-                                    </div>
-                                    <div class="mw-text">
-                                        <h6><a href="#">Borderlands 2 dev explains why there's mysterious
-                                                boxes...</a></h6>
-                                        <ul>
-                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                            <li><i class="fa fa-comment-o"></i> 12</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="mw-post-item">
-                                    <div class="mw-pic">
-                                        <img src="img/megamenu/mm-5.jpg" alt="">
-                                    </div>
-                                    <div class="mw-text">
-                                        <h6><a href="#">Capcom asks select fans to test new Resident Evil game</a>
-                                        </h6>
-                                        <ul>
-                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                            <li><i class="fa fa-comment-o"></i> 12</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
+                    <li><a href="./index.php"><span>Home </span></a></li>
+                    <li><a href="./gladiators_list.php"><span>Gladiators </span></a></li>
+                    <li><a href="./arenas.php"><span>Arenas </span></a></li>
+                    <li><a href="./types.php"><span>Fighting Styles </span></a></li>
+                    <li><a href="./types.php"><span>Statistics </span></a></li>
                     <li>
-                        <a href="#"><span>Pages <i class="fa fa-angle-down"></i></span></a>
+                        <a href="#"><span>Admin <i class="fa fa-angle-down"></i></span></a>
                         <ul class="dropdown">
-                            <li><a href="./categories-list.html">Categories</a></li>
-                            <li><a href="./categories-grid.html">Categories grid</a></li>
-                            <li><a href="./typography.html">Typography</a></li>
-                            <li><a href="./details-post-default.html">Post default</a></li>
-                            <li><a href="./details-post-gallery.html">Post gallery</a></li>
-                            <li><a href="./details-post-review.html">Post review</a></li>
-                            <li><a href="./contact.html">Contact</a></li>
+                            <li><a href="./users_crud.php">Users</a></li>
+                            <li><a href="./gladiators_form.php">Gladiators</a></li>
                         </ul>
                     </li>
-                    <li><a href="#"><span>Reviews <i class="fa fa-angle-down"></i></span></a></li>
-                    <li><a href="#"><span>Windows <i class="fa fa-angle-down"></i></span></a></li>
-                    <li><a href="#"><span>Videos <i class="fa fa-angle-down"></i></span></a></li>
                 </ul>
             </div>
         </div>

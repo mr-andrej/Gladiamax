@@ -31,9 +31,7 @@
     <div class="loader"></div>
 </div>
 
-<?php include "burgermenu.php" ?>
-
-<?php include "header.php" ?>
+<?php include "choose_header.php";?>
 
 <?php
    
@@ -57,7 +55,7 @@
 
         $statement->execute();
 
-        echo '<meta http-equiv="refresh" content="0;URL=gladiators_show' .$_POST['id'].'.php">';
+        echo '<meta http-equiv="refresh" content="0;URL=gladiators_show.php">';
     }
 ?>
 
@@ -69,19 +67,48 @@
                     <h3>Add a new gladiator to your team</h3>
                     
                 </div>
-        <div class="row">
+       
+                              
+                                  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hero-slider owl-carousel">
+    <video loop muted autoplay class="background-video">
+            <source src="img/hero/back-1.mp4" type="video/mp4">
+        </video>
+    </div>
+</section>
+<!-- Hero Section End -->
+
+<!-- Update News Section Begin -->
+<section class="update-news-section notransition">
+    <div class="container">
+        <div class="">
+            <div class="col-xl-6 offset-2">
+                <div class="section-title">
+                    <h5><span>New Gladiator</span></h5>
+                </div>
+                <div class="tab-elem">
+                
+                    <div class="tab-content">
+                        <div class="tab-pane fade show active" id="tabs-1" role="tabpanel">
+                          
+                        <div class="row">
             
-            <div class="col-xl-4 col-lg-5 col-md-6 offset-lg-1 offset-xl-2">
+            <div class="col-xl-10">
                 <div class="trending-post">
 
                 <div class="sidebar-option">
                     <div class="insta-media">
                     
                     <div class="subscribe-option">
-                        <div class="section-title">
-                            <h5>New Gladiator</h5>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor.</p>
+                        
                         <form method="post">
                             
     <input type="text" name="name" placeholder="Name"><br/>
@@ -95,16 +122,20 @@
     <input type="text" name="losing" placeholder="Losing"><br/>
     <input type="text" name="likes" placeholder="Like"><br/>
     <input type="text" name="dislike" placeholder="Dislike"><br/>
-    
-        <select name="category" id="category">
-            <option value="1" >Murmillo</option>
-            <option value="2" >Samnite</option>
-            <option value="3" >Secutor</option>
-            <option value="4" >Thraex</option>
-            <option value="5" >Bestiarius</option>
-            <option value="6" >Provocator</option>
-            <option value="7" >Retiarious</option>              
-        </select>    
+                                                           
+
+        <select class="form-control selectpicker signup-form" style="margin-bottom:15px; background: rgba(0,0,0,0.3);
+    color:#D4D4D4; text-shadow:0 1px 0 rgba(0,0,0,0.4);">
+            <option value="1" >Retiarious</option>
+            <option value="2" >Thraex</option>
+            <option value="3" >Samnite</option>
+            <option value="4" >Secutor</option>
+            <option value="5" >Murmillo</option>
+            <option value="6" >Bestiarius</option>
+            <option value="7" >Provocator</option>              
+        </select>   
+      
+        
     <input type="submit" name="submit" value="submit">
 </form>
                     </div>
@@ -112,26 +143,25 @@
             </div>
         </div>
         </div>
-        </div>
-                              
-                                  
+        </div>                               
+                       
+                                          
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
+            
+            </div>
         </div>
     </div>
-    <div class="hero-slider owl-carousel">
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-1.jpg"></div>
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-2.jpg"></div>
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-3.jpg"></div>
     </div>
 </section>
-<!-- Hero Section End -->
-
-
+<!-- Update News Section End -->
 
 
 
@@ -144,48 +174,10 @@
                     <div class="fa-logo">
                         <a href="#"><img src="img/f-logo.png" alt=""></a>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua lacus vel facilisis.</p>
-                    <div class="fa-social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                    </div>
+                    <p align="center">Ave Imperator, morituri te salutant!</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="editor-choice">
-                    <div class="section-title">
-                        <h5>Editor's Choice</h5>
-                    </div>
-                    <div class="ec-item">
-                        <div class="ec-pic">
-                            <img src="img/trending/editor-1.jpg" alt="">
-                        </div>
-                        <div class="ec-text">
-                            <h6><a href="#">A Monster Prom poster got hijacked for a Papa Roach concert...</a>
-                            </h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="ec-item">
-                        <div class="ec-pic">
-                            <img src="img/trending/editor-2.jpg" alt="">
-                        </div>
-                        <div class="ec-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with its augmented...</a>
-                            </h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="tags-cloud">
@@ -193,17 +185,17 @@
                         <h5>Tags Cloud</h5>
                     </div>
                     <div class="tag-list">
-                        <a href="#"><span>Gaming</span></a>
-                        <a href="#"><span>Platform</span></a>
-                        <a href="#"><span>Playstation</span></a>
-                        <a href="#"><span>Hardware</span></a>
-                        <a href="#"><span>Reviews</span></a>
-                        <a href="#"><span>Simulation</span></a>
-                        <a href="#"><span>Strategy</span></a>
-                        <a href="#"><span>Scientific</span></a>
-                        <a href="#"><span>References</span></a>
-                        <a href="#"><span>Role-playing</span></a>
-                        <a href="#"><span>Adventurea</span></a>
+                        <a href="#"><span>Spartacus</span></a>
+                        <a href="#"><span>Flamma</span></a>
+                        <a href="#"><span>Murmillo</span></a>
+                        <a href="#"><span>Cestus</span></a>
+                        <a href="#"><span>Retiarius</span></a>
+                        <a href="#"><span>Secutor</span></a>
+                        <a href="#"><span>Bestiarius</span></a>
+                        <a href="#"><span>Thraex</span></a>
+                        <a href="#"><span>Provocator</span></a>
+                        <a href="#"><span>Hoplomachus</span></a>
+                        <a href="#"><span>Samnite</span></a>
                     </div>
                 </div>
             </div>
@@ -211,20 +203,12 @@
         <div class="copyright-area">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="ca-text">
-                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                            All rights reserved | This template is made with <i class="fa fa-heart"
-                                                                                aria-hidden="true"></i> by <a
-                                    href="https://colorlib.com" target="_blank">Colorlib</a>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                    </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="ca-links">
-                        <a href="#">About</a>
-                        <a href="#">Subscribe</a>
-                        <a href="#">Contact</a>
+                        <a href="#">Home</a>
+                        <a href="#">Sign up</a>
+                        <a href="#">FAQ</a>
                         <a href="#">Support</a>
                     </div>
                 </div>
