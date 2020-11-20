@@ -15,13 +15,6 @@ require "connec.php";
             <li><a href="./gladiators.php"><span>Gladiators </span></a></li>
             <li><a href="./arenas.php"><span>Arenas </span></a></li>
             <li><a href="./types.php"><span>Fighting Styles </span></a></li>
-
-            <li><a href="#">Admin <i class="fa fa-angle-down"></i></a>
-                <ul class="dropdown">
-                    <li><a href="./users_crud.php">Users</a></li>
-                    <li><a href="./gladiators_crud.php">Gladiators</a></li>
-                </ul>
-            </li>
         </ul>
     </div>
     <div id="mobile-menu-wrap"></div>
