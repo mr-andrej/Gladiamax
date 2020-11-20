@@ -2,12 +2,14 @@
 <html lang="zxx">
 
 <head>
+    <link rel="icon" type="image/png" href="img/favicon.png"/>
+
     <meta charset="UTF-8">
     <meta name="description" content="Amin Template">
     <meta name="keywords" content="Amin, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Amin | Template</title>
+    <title>Gladiamax</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap"
@@ -31,9 +33,9 @@
     <div class="loader"></div>
 </div>
 
-<?php include "burgermenu.php" ?>
+<?php require "burgermenu.php" ?>
 
-<?php include "header.php" ?>
+<?php require "header.php" ?>
 
 <!-- Hero Section Begin -->
 <section class="hero-section">
@@ -52,129 +54,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-5 col-md-6 offset-lg-1 offset-xl-2">
-                <div class="trending-post">
-                    <div class="section-title">
-                        <h5>Treding posts</h5>
-                    </div>
-                    <div class="trending-slider owl-carousel">
-                        <div class="single-trending-item">
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-1.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-2.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Valve updates Steam's new Interactive Reco- mmender, teases
-                                            a...</a></h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-3.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-4.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-trending-item">
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-5.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-6.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Valve updates Steam's new Interactive Reco- mmender, teases
-                                            a...</a></h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-7.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="trending-item">
-                                <div class="ti-pic">
-                                    <img src="img/trending/trending-8.jpg" alt="">
-                                </div>
-                                <div class="ti-text">
-                                    <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a>
-                                    </h6>
-                                    <ul>
-                                        <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                        <li><i class="fa fa-comment-o"></i> 12</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     <div class="hero-slider owl-carousel">
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-1.jpg"></div>
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-2.jpg"></div>
-        <div class="hs-item set-bg" data-setbg="img/hero/hero-3.jpg"></div>
+        <video loop muted autoplay class="background-video">
+            <source src="img/hero/back-1.mp4" type="video/mp4">
+        </video>
     </div>
 </section>
 <!-- Hero Section End -->
@@ -185,7 +70,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <h5>Latest Preview</h5>
+                    <h5>Latest Matches</h5>
                 </div>
             </div>
         </div>
@@ -197,9 +82,9 @@
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="62"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
+                                        <div class="review-point">6.2</div>
                                     </div>
                                 </div>
                             </div>
@@ -207,8 +92,8 @@
                         <div class="lp-text">
                             <h6><a href="#">Teamfight Tactics is in chaos after patch...</a></h6>
                             <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
+                                <li><i class="fa fa-clock-o"></i> Aug 01, 82 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 2</li>
                             </ul>
                         </div>
                     </div>
@@ -219,9 +104,9 @@
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="79"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
+                                        <div class="review-point">7.9</div>
                                     </div>
                                 </div>
                             </div>
@@ -229,8 +114,8 @@
                         <div class="lp-text">
                             <h6><a href="#">Lenovo’s y540 gaming laptop with an rtx 2060...</a></h6>
                             <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
+                                <li><i class="fa fa-clock-o"></i> Aug 22, 82 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 17</li>
                             </ul>
                         </div>
                     </div>
@@ -241,9 +126,9 @@
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="92"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
+                                        <div class="review-point">9.2</div>
                                     </div>
                                 </div>
                             </div>
@@ -251,7 +136,73 @@
                         <div class="lp-text">
                             <h6><a href="#">A monter prom poster got hijacked for a...</a></h6>
                             <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                <li><i class="fa fa-clock-o"></i> Jan 11, 81 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 7</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="lp-item">
+                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
+                            <div class="review-loader">
+                                <div class="loader-circle-wrap">
+                                    <div class="loader-circle">
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="31"
+                                                  data-cpcolor="#c20000"></span>
+                                        <div class="review-point">3.1</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lp-text">
+                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> Feb 19, 81 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 21</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="lp-item">
+                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
+                            <div class="review-loader">
+                                <div class="loader-circle-wrap">
+                                    <div class="loader-circle">
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="44"
+                                                  data-cpcolor="#c20000"></span>
+                                        <div class="review-point">4.4</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lp-text">
+                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> Apr 29, 80 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 5</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="lp-item">
+                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
+                            <div class="review-loader">
+                                <div class="loader-circle-wrap">
+                                    <div class="loader-circle">
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="52"
+                                                  data-cpcolor="#c20000"></span>
+                                        <div class="review-point">5.2</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lp-text">
+                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> Jun 13, 80 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 12</li>
                             </ul>
                         </div>
@@ -263,9 +214,9 @@
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
+                                            <span class="circle-progress" data-cpid="id" data-cpvalue="86"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
+                                        <div class="review-point">8.6</div>
                                     </div>
                                 </div>
                             </div>
@@ -273,74 +224,8 @@
                         <div class="lp-text">
                             <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
                             <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="lp-item">
-                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
-                            <div class="review-loader">
-                                <div class="loader-circle-wrap">
-                                    <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
-                                                  data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="lp-item">
-                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
-                            <div class="review-loader">
-                                <div class="loader-circle-wrap">
-                                    <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
-                                                  data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="lp-item">
-                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
-                            <div class="review-loader">
-                                <div class="loader-circle-wrap">
-                                    <div class="loader-circle">
-                                            <span class="circle-progress" data-cpid="id" data-cpvalue="75"
-                                                  data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
+                                <li><i class="fa fa-clock-o"></i> Dec 21, 79 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 11</li>
                             </ul>
                         </div>
                     </div>
@@ -919,64 +804,10 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="hardware-guides">
-                        <div class="section-title">
-                            <h5>Hardware guides</h5>
-                        </div>
-                        <div class="trending-item">
-                            <div class="ti-pic">
-                                <img src="img/trending/trending-5.jpg" alt="">
-                            </div>
-                            <div class="ti-text">
-                                <h6><a href="#">A Monster Prom poster got hijacked for a Papa Roach concert...</a>
-                                </h6>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="trending-item">
-                            <div class="ti-pic">
-                                <img src="img/trending/trending-6.jpg" alt="">
-                            </div>
-                            <div class="ti-text">
-                                <h6><a href="#">Facebook wants to read your thoughts with its augmented...</a></h6>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="trending-item">
-                            <div class="ti-pic">
-                                <img src="img/trending/trending-7.jpg" alt="">
-                            </div>
-                            <div class="ti-text">
-                                <h6><a href="#">This gaming laptop with a GTX 1660 Ti and 32GB of RAM is down...</a>
-                                </h6>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="trending-item">
-                            <div class="ti-pic">
-                                <img src="img/trending/trending-8.jpg" alt="">
-                            </div>
-                            <div class="ti-text">
-                                <h6><a href="#">Jalopy developer is making a game where you 'build stuff...</a></h6>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </section>
 <!-- Update News Section End -->
@@ -1788,14 +1619,7 @@
         <div class="copyright-area">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="ca-text">
-                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                            All rights reserved | This template is made with <i class="fa fa-heart"
-                                                                                aria-hidden="true"></i> by <a
-                                    href="https://colorlib.com" target="_blank">Colorlib</a>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                    </div>
+
                 </div>
                 <div class="col-lg-6">
                     <div class="ca-links">
@@ -1811,33 +1635,7 @@
 </footer>
 <!-- Footer Section End -->
 
-<!-- Sign Up Section Begin -->
-<div class="signup-section">
-    <div class="signup-close"><i class="fa fa-close"></i></div>
-    <div class="signup-text">
-        <div class="container">
-            <div class="signup-title">
-                <h2>Sign up</h2>
-                <p>Fill out the form below to recieve a free and confidential</p>
-            </div>
-            <form action="#" class="signup-form">
-                <div class="sf-input-list">
-                    <input type="text" name="name" class="input-value" placeholder="Name">
-                    <input type="text" name="email" class="input-value" placeholder="Email Address">
-                    <input type="text" name="password" class="input-value" placeholder="Password">
-                </div>
-                <div class="radio-check">
-                    <label for="rc-agree">I agree with the term & conditions
-                        <input type="checkbox" id="rc-agree">
-                        <span class="checkbox"></span>
-                    </label>
-                </div>
-                <button type="submit"><span>REGISTER NOW</span></button>
-            </form>
-        </div>
-    </div>
-</div>
-<!-- Sign Up Section End -->
+<?php require "signup.php" ?>
 
 <!-- Search model Begin -->
 <div class="search-model">
