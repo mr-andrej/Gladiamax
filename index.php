@@ -33,9 +33,7 @@
     <div class="loader"></div>
 </div>
 
-<?php require "burgermenu.php" ?>
-
-<?php require "header.php" ?>
+<?php include "choose_header.php";?>
 
 <!-- Hero Section Begin -->
 <section class="hero-section">

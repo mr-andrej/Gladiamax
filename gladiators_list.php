@@ -31,9 +31,7 @@
     <div class="loader"></div>
 </div>
 
-<?php include "burgermenu.php" ?>
-
-<?php include "header.php" ?>
+<?php include "choose_header.php"; ?>
 
 <?php
 

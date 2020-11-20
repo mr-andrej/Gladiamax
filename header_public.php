@@ -53,9 +53,8 @@
             <div class="nav-menu">
                 <ul>
                     <li><a href="./index.php"><span>Home </span></a></li>
-                    <li><a href="./gladiators.php"><span>Gladiators </span></a></li>
-                    <li><a href="./arenas.php"><span>Arenas </span></a></li>
-                    <li><a href="./types.php"><span>Fighting Styles </span></a></li>
+                    <li><a href="./gladiators_list.php"><span>Gladiators </span></a></li>
+                    <li><a href="./category.php"><span>Fighting Styles </span></a></li>
                 </ul>
             </div>
         </div>

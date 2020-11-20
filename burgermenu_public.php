@@ -12,9 +12,8 @@ require "connec.php";
     <div class="hw-menu mobile-menu">
         <ul>
             <li><a href="./index.php">Home</a></li>
-            <li><a href="./gladiators.php"><span>Gladiators </span></a></li>
-            <li><a href="./arenas.php"><span>Arenas </span></a></li>
-            <li><a href="./types.php"><span>Fighting Styles </span></a></li>
+            <li><a href="./gladiators_list.php"><span>Gladiators </span></a></li>
+            <li><a href="./category.php"><span>Fighting Styles </span></a></li>
         </ul>
     </div>
     <div id="mobile-menu-wrap"></div>

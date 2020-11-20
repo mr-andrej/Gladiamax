@@ -3,24 +3,23 @@
 $hostname = 'localhost';
 $database = 'gladiamax';
 $username = 'root';
-$password = 'azerty78';
+$password = 'password';
 
 $bdd = new PDO('mysql:host=' . $hostname . ';dbname=' . $database, $username, $password);
 
 	if(isset($_GET['type']) AND $_GET['type'] == 'membre') {
-	   if(isset($_GET['confirme']) AND !empty($_GET['confirme'])) {
+	   if(isset($_GET['confirm']) AND !empty($_GET['confirm'])) {
 	      $confirme = (int) $_GET['confirme'];
 	      $req = $bdd->prepare('UPDATE user SET confirme = 1 WHERE id = ?');
 	      $req->execute(array($confirme));
 	   }
-	   if(isset($_GET['supprime']) AND !empty($_GET['supprime'])) {
+	   if(isset($_GET['supprim']) AND !empty($_GET['supprim'])) {
 	      $supprime = (int) $_GET['supprime'];
 	      $req = $bdd->prepare('DELETE FROM user WHERE id = ?');
 	      $req->execute(array($supprime));
 	   }
 
 	}
-
 
 	$user = $bdd->query('SELECT * FROM user ORDER BY id DESC LIMIT 0,5');
 
