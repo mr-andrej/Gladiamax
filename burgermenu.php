@@ -1,4 +1,7 @@
 <!-- Humberger Menu Begin -->
+<?php session_start();
+require 'connec.php';
+?>
 <div class="humberger-menu-overlay"></div>
 <div class="humberger-menu-wrapper">
     <div class="hw-logo">

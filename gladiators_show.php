@@ -37,14 +37,11 @@
 <?php include "header.php" ?>
 
 <?php
-
-
-
 $allGladiators = $pdo->query('SELECT g.name as gname, country, weight, height, sword, shield, hand, winner, losing, likes, dislike, 
 c.name as cname 
 FROM gladiator g 
 join category c on c.id=g.id_category
-')->fetch();
+')->fetchAll();
 
         foreach ($allGladiators as $gladiator)
         {

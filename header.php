@@ -1,7 +1,4 @@
 <!-- Header Section Begin -->
-<?php session_start(); 
-require 'connec.php';
-?>
 
 <header class="header-section">
     <div class="ht-options">
