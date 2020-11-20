@@ -1,4 +1,3 @@
-<!-- Humberger Menu Begin -->
 <?php session_start();
 require "connec.php";
 ?>
