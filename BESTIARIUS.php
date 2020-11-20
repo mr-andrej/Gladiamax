@@ -1,11 +1,3 @@
-<?php
-include "connec.php";
-
-$sql ='SELECT * FROM category ';
-$statement = $pdo->prepare($sql);
-$statement->execute();
-$result=$statement->fetchAll();
-?>
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -15,7 +7,7 @@ $result=$statement->fetchAll();
     <meta name="keywords" content="Amin, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Category</title>
+    <title>Bestiarius</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap"
@@ -47,31 +39,24 @@ $result=$statement->fetchAll();
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
-                <div class="section-title">
-                    <h5>THE DIFFERENT CATEGORY OF GLADIATOR</h5>
-                </div>
-            <?php
-            $temporaryCounter = 1; // Use $row['id'] when you come back
-            foreach( $result as $row ) {
-                echo '<div class="ip-item">';
-                echo '<div class="ip-pic">';
-                echo '<img src="img/instagram/insta-1'. $temporaryCounter++ . '.jpg" alt="">';
-                echo '</div>';
-                echo '<div class="ip-text">';
-                echo '<div class="label"><span>CATEGORY</span></div>';
-                echo '<h5><a href="' . $row['name'] . '.php'  . '">' . $row['name'] . '</a></h5>';
 
 
-                echo '<ul>';
-                echo '<li>by <span>Admin</span></li>';
-                echo '<li><i class="fa fa-clock-o"></i> NOV 20/220</li>';
-                echo '<li><i class="fa fa-comment-o"></i> 150</li>';
-                echo '</ul>';
-                echo '<p>'. $row['description'] . '</p>';
-                echo '</div>';
-                echo '</div>';
-            }
-            ?>
+                 <div class="ip-item">
+                     <div class="ip-pic">
+                            <img src="img/instagram/insta-16.jpg" alt="">
+                     </div>
+                     <div class="ip-text">
+                         <div class="label"><span>Spartacus</span></div>
+                            <h5><a href="#">The BESTIARIUS</a></h5>
+                            <ul>
+                                <li>by <span>Admin</span></li>
+                                <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                <li><i class="fa fa-comment-o"></i> 20</li>
+                            </ul>
+                            <p>A varying equipment, a man who fights in the circus against the beasts,
+                                or a gladiator who voluntarily does this profession for money or for glory.</p>
+                     </div>
+                 </div>
 
             </div>
             <div class="col-lg-4 col-md-7">

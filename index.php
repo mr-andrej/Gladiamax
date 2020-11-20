@@ -835,6 +835,7 @@
 <script src="js/circle-progress.min.js"></script>
 <script src="js/jquery.barfiller.js"></script>
 <script src="js/jquery.slicknav.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/apexcharts%22%3E</script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
 </body>
