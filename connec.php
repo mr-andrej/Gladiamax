@@ -1,4 +1,4 @@
-<?php
+<?php<?php
 
 $hostname = 'localhost';
 $database = 'gladiamax';
