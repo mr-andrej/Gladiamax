@@ -31,6 +31,13 @@
 
 /* Template default CSS
 /*----------------------------------------*/
+.notransition {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+}
+
 
 html,
 body {
@@ -1124,6 +1131,7 @@ video[poster] {
 .hero-section .container {
     position: relative;
     z-index: 9;
+
 }
 
 .hs-text {
@@ -1457,6 +1465,7 @@ video[poster] {
     background: #0d0d0d;
     padding-top: 65px;
     padding-bottom: 30px;
+
 }
 
 .tab-elem .nav-tabs {
@@ -1464,6 +1473,10 @@ video[poster] {
     position: absolute;
     right: 36px;
     top: 2px;
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
 }
 
 .tab-elem .nav-item {
@@ -1551,6 +1564,7 @@ video[poster] {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 700;
+    background-color: rgba(150, 0, 0, 0.45);
 }
 
 .un-slider .un-big-item .ub-text ul li {
@@ -1561,6 +1575,8 @@ video[poster] {
     display: inline-block;
     position: relative;
     margin-right: 28px;
+    background-color: rgba(255, 255, 255, 0.7);
+
 }
 
 .un-slider .un-big-item .ub-text ul li i {
@@ -1802,6 +1818,8 @@ video[poster] {
     text-transform: uppercase;
     margin-bottom: 8px;
     letter-spacing: 0.5px;
+    background-color: rgba(150, 0, 0, 0.45);
+
 }
 
 .vg-item.large-vg .vg-text ul li {
@@ -1812,6 +1830,8 @@ video[poster] {
     display: inline-block;
     position: relative;
     margin-right: 28px;
+    background-color: rgba(255, 255, 255, 0.65);
+
 }
 
 .vg-item.large-vg .vg-text ul li i {
@@ -1855,6 +1875,8 @@ video[poster] {
     line-height: 22px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    background-color: rgba(150, 0, 0, 0.45);
+
 }
 
 /*-------------------------
@@ -4279,3 +4301,5 @@ video[poster] {
         font-size: 28px;
     }
 }
+
+

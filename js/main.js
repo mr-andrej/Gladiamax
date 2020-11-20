@@ -120,7 +120,7 @@
             dotsEach: 2,
             smartSpeed: 1200,
             autoHeight: false,
-            autoplay: true
+            autoplay: false
         }
     );
 
@@ -138,7 +138,7 @@
             smartSpeed: 1200,
             autoHeight: false,
             dotsEach: 2,
-            autoplay: true,
+            autoplay: false,
             responsive: {
                 320: {
                     items: 1
@@ -170,7 +170,7 @@
             smartSpeed: 1200,
             autoHeight: false,
             dotsEach: 2,
-            autoplay: true
+            autoplay: false
         }
     );
 
@@ -187,7 +187,7 @@
             navText: ['<span class="arrow_carrot-left"></span>', '<span class="arrow_carrot-right"></span>'],
             smartSpeed: 1200,
             autoHeight: false,
-            autoplay: true
+            autoplay: false
         }
     );
 
@@ -204,7 +204,7 @@
             navText: ['<span class="arrow_carrot-left"></span>', '<span class="arrow_carrot-right"></span>'],
             smartSpeed: 1200,
             autoHeight: false,
-            autoplay: true
+            autoplay: false
         }
     );
 
