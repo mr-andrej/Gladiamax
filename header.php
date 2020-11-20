@@ -56,7 +56,6 @@
                     <li><a href="./gladiators.php"><span>Gladiators </span></a></li>
                     <li><a href="./arenas.php"><span>Arenas </span></a></li>
                     <li><a href="./types.php"><span>Fighting Styles </span></a></li>
-                    <li><a href="./types.php"><span>Statistics </span></a></li>
                     <li>
                         <a href="#"><span>Admin <i class="fa fa-angle-down"></i></span></a>
                         <ul class="dropdown">

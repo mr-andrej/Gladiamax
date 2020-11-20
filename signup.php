@@ -3,14 +3,14 @@
 <?php
 // Traitement des données du formulaire -- Si je clique
 
-if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_POST['name'])) {
+if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_GET['name'])) {
     $sql = 'INSERT INTO user (name, email, password) VALUES(:name, :email, :password)';
     $_SESSION['OUTPUT'] = "HOW THE SHIT";
 
     $statement = $pdo->prepare($sql);
-    $statement->bindValue(':name', $_POST['name'], PDO::PARAM_STR);
-    $statement->bindValue(':email', $_POST['email'], PDO::PARAM_STR);
-    $statement->bindValue(':password', md5($_POST['password']), PDO::PARAM_STR);
+    $statement->bindValue(':name', $_GET['name'], PDO::PARAM_STR);
+    $statement->bindValue(':email', $_GET['email'], PDO::PARAM_STR);
+    $statement->bindValue(':password', md5($_GET['password']), PDO::PARAM_STR);
 
     $statement->execute();
 
