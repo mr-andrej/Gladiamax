@@ -37,31 +37,19 @@
 <?php include "header.php" ?>
 
 <?php
-$allGladiators = $pdo->query('SELECT g.name as gname, country, weight, height, sword, shield, hand, winner, losing, likes, dislike, 
+
+$id = $_GET['id'];
+
+$gladiator = $pdo->query('SELECT g.name as gname, country, weight, height, sword, shield, hand, winner, losing, likes, dislike, 
 c.name as cname 
 FROM gladiator g 
-join category c on c.id=g.id_category
-')->fetchAll();
-
-        foreach ($allGladiators as $gladiator)
-        {
-          
-            $gladiator['gname'];
-            $gladiator['country'];
-            $gladiator['weight'];
-            $gladiator['height'];
-            $gladiator['sword'];
-            $gladiator['shield'];
-            $gladiator['hand'];
-            $gladiator['winner'];
-            $gladiator['losing'];
-            $gladiator['likes'];
-            $gladiator['dislike'];
-            $gladiator['cname'];
-           
-        }
- 
-
+join category c on c.id=g.id_category WHERE g.id=' . $id)->fetch(); // Le fetch(); sans WHERE donne juste le premier entry dans le db
+                // Il faut utiliser WHERE id=:id;
+                // Et tu va le passer avec l'addition de ?id= . $gladiator['id'];
+                // Exemple: gladiators_show.php?id=1
+                // le code va etre 'SELECT g.name as gname, country, weight, height, sword, shield, hand, winner, losing, likes, dislike, c.name as cname
+                // FROM gladiator g JOIN category c ON c.id=g.id_category WHERE g.id=:id;
+                // Et il faut bindValue(':id' ...) avant executer
 ?>
 
 <!-- Hero Section Begin -->
