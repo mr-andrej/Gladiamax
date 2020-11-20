@@ -156,7 +156,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">One sided combat between a Murmillo and unarmed Retiarious</a></h6>
+                            <h6><a href="#">One sided combat between a Murmillo and unarmed Retiarius</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Feb 19, 81 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 21</li>
@@ -222,7 +222,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Intense five minutes between a visiting Murmillo and a local Retiarious</a>
+                            <h6><a href="#">Intense five minutes between a visiting Murmillo and a local Retiarius</a>
                             </h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Dec 21, 79 B.C.</li>
@@ -259,8 +259,8 @@
                                         <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
                                             <div class="ub-text">
                                                 <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
+                                                <h5><a href="#">Cassius badly wounded in bout against Maximus
+                                                    </a></h5>
                                                 <ul>
                                                     <li>by <span>Admin</span></li>
                                                     <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
@@ -275,8 +275,8 @@
                                                         <div class="label"><span>Reviews</span></div>
                                                     </div>
                                                     <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
+                                                        <h6><a href="#">Flamma humiliates loud-mouthed Gaul
+                                                            </a></h6>
                                                         <ul>
                                                             <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
@@ -290,8 +290,9 @@
                                                         <div class="label"><span>Reviews</span></div>
                                                     </div>
                                                     <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
+                                                        <h6><a href="#">A brutal bout between Spartacus and former
+                                                                Centurion
+                                                            </a></h6>
                                                         <ul>
                                                             <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
@@ -305,8 +306,9 @@
                                                         <div class="label"><span>Reviews</span></div>
                                                     </div>
                                                     <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
+                                                        <h6><a href="#">One-sided combat between a Murmillo and unarmed
+                                                                Retiarius
+                                                            </a></h6>
                                                         <ul>
                                                             <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
@@ -320,8 +322,9 @@
                                         <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
                                             <div class="ub-text">
                                                 <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
+                                                <h5><a href="#">New gladiators leave much to be desired. More fit for
+                                                        the mines?
+                                                    </a></h5>
                                                 <ul>
                                                     <li>by <span>Admin</span></li>
                                                     <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
@@ -427,7 +430,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <h5>Videos guide</h5>
+                    <h5>Videos</h5>
                 </div>
             </div>
         </div>
@@ -435,15 +438,6 @@
             <ul class="nav nav-tabs" role="tablist">
                 <li class="nav-item">
                     <a class="nav-link active" data-toggle="tab" href="#tabs-5" role="tab">All</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tabs-6" role="tab">Platform</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tabs-7" role="tab">Hardware</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#tabs-8" role="tab">Reviews</a>
                 </li>
             </ul><!-- Tab panes -->
             <div class="tab-content">
@@ -457,8 +451,7 @@
                                             <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
                                                class="play-btn video-popup"><i class="fa fa-play"></i></a>
                                             <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
+                                                <h5>Cassius badly wounded in a bout against Maximus</h5>
                                                 <ul>
                                                     <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                     <li><i class="fa fa-comment-o"></i> 12</li>
@@ -471,8 +464,7 @@
                                             <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
                                                class="play-btn video-popup"><i class="fa fa-play"></i></a>
                                             <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
+                                                <h5>Flamma humiliates loud-mouthed Gaul</h5>
                                                 <ul>
                                                     <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                     <li><i class="fa fa-comment-o"></i> 12</li>
@@ -487,7 +479,7 @@
                                             <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
                                                class="play-btn video-popup"><i class="fa fa-play"></i></a>
                                             <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
+                                                <h6>A brutal bout between Spartacus and former Centurion</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -496,7 +488,7 @@
                                             <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
                                                class="play-btn video-popup"><i class="fa fa-play"></i></a>
                                             <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
+                                                <h6>One-sided combat between a Murmillo and unarmed Retiarious</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -505,391 +497,7 @@
                                             <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
                                                class="play-btn video-popup"><i class="fa fa-play"></i></a>
                                             <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-1.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-2.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-3.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-4.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-5.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="tabs-6" role="tabpanel">
-                    <div class="row">
-                        <div class="vg-slider owl-carousel">
-                            <div class="col-lg-12">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-1.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-2.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-3.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-4.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-5.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-1.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-2.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-3.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-4.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-5.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="tabs-7" role="tabpanel">
-                    <div class="row">
-                        <div class="vg-slider owl-carousel">
-                            <div class="col-lg-12">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-1.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-2.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-3.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-4.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-5.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-1.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-2.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-3.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-4.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-5.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="tabs-8" role="tabpanel">
-                    <div class="row">
-                        <div class="vg-slider owl-carousel">
-                            <div class="col-lg-12">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-1.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="vg-item large-vg set-bg" data-setbg="img/videos/videos-2.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h5>THROUGH THE AGES' FIRST EXPANSION WILL BE RELEASING ON DIGITAL
-                                                    PLATFORMS...</h5>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 12</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-3.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-4.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="vg-item set-bg" data-setbg="img/videos/videos-5.jpg">
-                                            <a href="https://www.youtube.com/watch?v=EzKkl64rRbM"
-                                               class="play-btn video-popup"><i class="fa fa-play"></i></a>
-                                            <div class="vg-text">
-                                                <h6>THis gam,ing laptop with Gtx 1660 ti and of ram is</h6>
+                                                <h6>New gladiators leave much to be desired.</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -971,22 +579,24 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="section-title">
-                    <h5>Instagram</h5>
+                    <h5>Instagram - Highlights</h5>
                 </div>
                 <div class="ip-item">
                     <div class="ip-pic">
                         <img src="img/instagram/insta-1.jpg" alt="">
                     </div>
                     <div class="ip-text">
-                        <div class="label"><span>Reviews</span></div>
-                        <h5><a href="#">Here's an hour of side-quests from The Outer Worlds...</a></h5>
+                        <div class="label"><span>Spartacus</span></div>
+                        <h5><a href="#">A brutal bout between Spartacus and former Centurion</a></h5>
                         <ul>
                             <li>by <span>Admin</span></li>
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                             <li><i class="fa fa-comment-o"></i> 20</li>
                         </ul>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices...</p>
+                        <p>Spartacus yet again proves his capabilities in the arena.
+                        Clearly the mark of a former commander.</p>
+
+
                     </div>
                 </div>
                 <div class="ip-item">
@@ -994,15 +604,15 @@
                         <img src="img/instagram/insta-2.jpg" alt="">
                     </div>
                     <div class="ip-text">
-                        <div class="label"><span>Windows</span></div>
-                        <h5><a href="#">Infinity Ward's focus isn't on battle royale, Call of...</a></h5>
+                        <div class="label"><span>Flamma</span></div>
+                        <h5><a href="#">Flamma humiliates loud-mouthed Gaul</a></h5>
                         <ul>
                             <li>by <span>Admin</span></li>
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                            <li><i class="fa fa-clock-o"></i> Aug 21, 72 B.C.</li>
                             <li><i class="fa fa-comment-o"></i> 20</li>
                         </ul>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices...</p>
+                        <p>Brutal and efficient, the two key traits we remark when we observe Flamma.
+                        With such potential it's easy to understand why he has refused his freedom 4 times.</p>
                     </div>
                 </div>
                 <div class="ip-item">
@@ -1010,15 +620,15 @@
                         <img src="img/instagram/insta-3.jpg" alt="">
                     </div>
                     <div class="ip-text">
-                        <div class="label"><span>Hardware</span></div>
-                        <h5><a href="#">Capcom asks select fans to test new Resident Evil game</a></h5>
+                        <div class="label"><span>Murmillo</span></div>
+                        <h5><a href="#">Intense five minutes between a visiting Murmillo and a local Retiarius</a></h5>
                         <ul>
                             <li>by <span>Admin</span></li>
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                            <li><i class="fa fa-clock-o"></i> Aug 29, 72 B.C.</li>
                             <li><i class="fa fa-comment-o"></i> 20</li>
                         </ul>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices...</p>
+                        <p>An interesting bout between two unknown gladiators. In the start it seemed that,
+                        the Murmillo had a strong advantage but the Retiarius proved us all wrong.</p>
                     </div>
                 </div>
                 <div class="ip-item">
@@ -1026,15 +636,15 @@
                         <img src="img/instagram/insta-4.jpg" alt="">
                     </div>
                     <div class="ip-text">
-                        <div class="label"><span>Playstation</span></div>
-                        <h5><a href="#">Teamfight Tactics is in chaos after today's patch...</a></h5>
+                        <div class="label"><span>Retiarious</span></div>
+                        <h5><a href="#">One-sided combat between a Murmillo and unarmed Retiarius</a></h5>
                         <ul>
                             <li>by <span>Admin</span></li>
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                            <li><i class="fa fa-clock-o"></i> Sep 02, 72 B.C.</li>
                             <li><i class="fa fa-comment-o"></i> 20</li>
                         </ul>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices...</p>
+                        <p>Almost considered it insulting to watch this bout, a pure sham.
+                        The Retiarius lost his net and trident in the first minute.</p>
                     </div>
                 </div>
                 <div class="pagination-item">
@@ -1048,7 +658,7 @@
                 <div class="sidebar-option">
                     <div class="insta-media">
                         <div class="section-title">
-                            <h5>Instagram</h5>
+                            <h5>Instagram - most liked</h5>
                         </div>
                         <div class="insta-pic">
                             <img src="img/instagram/ip-1.jpg" alt="">
@@ -1065,17 +675,17 @@
                             <div class="bp-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress-1" data-cpid="id-1" data-cpvalue="95"
+                                            <span class="circle-progress-1" data-cpid="id-1" data-cpvalue="100"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">9.5</div>
+                                        <div class="review-point">9k</div>
                                     </div>
                                 </div>
                             </div>
                             <div class="bp-text">
-                                <h6><a href="#">This gaming laptop with a GTX 1660...</a></h6>
+                                <h6><a href="#">Spartacus (Thraex)</a></h6>
                                 <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 20</li>
+                                    <li><i class="fa fa-clock-o"></i> Sep 02, 72 B.C.</li>
+                                    <li><i class="fa fa-comment-o"></i> 201</li>
                                 </ul>
                             </div>
                         </div>
@@ -1083,17 +693,17 @@
                             <div class="bp-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress-1" data-cpid="id-2" data-cpvalue="85"
+                                            <span class="circle-progress-1" data-cpid="id-2" data-cpvalue="100"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">8.5</div>
+                                        <div class="review-point">8k</div>
                                     </div>
                                 </div>
                             </div>
                             <div class="bp-text">
-                                <h6><a href="#">This gaming laptop with a GTX 1660...</a></h6>
+                                <h6><a href="#">Flamma (Secutor)</a></h6>
                                 <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 20</li>
+                                    <li><i class="fa fa-clock-o"></i> Sep 09, 72 B.C.</li>
+                                    <li><i class="fa fa-comment-o"></i> 126</li>
                                 </ul>
                             </div>
                         </div>
@@ -1101,17 +711,17 @@
                             <div class="bp-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress-1" data-cpid="id-3" data-cpvalue="80"
+                                            <span class="circle-progress-1" data-cpid="id-3" data-cpvalue="100"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">8.0</div>
+                                        <div class="review-point">6k</div>
                                     </div>
                                 </div>
                             </div>
                             <div class="bp-text">
-                                <h6><a href="#">This gaming laptop with a GTX 1660...</a></h6>
+                                <h6><a href="#">Crixus (Murmillo)</a></h6>
                                 <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 20</li>
+                                    <li><i class="fa fa-clock-o"></i> Sep 19, 72 B.C.</li>
+                                    <li><i class="fa fa-comment-o"></i> 103</li>
                                 </ul>
                             </div>
                         </div>
@@ -1119,17 +729,17 @@
                             <div class="bp-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
-                                            <span class="circle-progress-1" data-cpid="id-4" data-cpvalue="75"
+                                            <span class="circle-progress-1" data-cpid="id-4" data-cpvalue="100"
                                                   data-cpcolor="#c20000"></span>
-                                        <div class="review-point">7.5</div>
+                                        <div class="review-point">5k</div>
                                     </div>
                                 </div>
                             </div>
                             <div class="bp-text">
-                                <h6><a href="#">This gaming laptop with a GTX 1660...</a></h6>
+                                <h6><a href="#">Carpophorus (Bestiarius)</a></h6>
                                 <ul>
-                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                    <li><i class="fa fa-comment-o"></i> 20</li>
+                                    <li><i class="fa fa-clock-o"></i> Sep 23, 72 B.C.</li>
+                                    <li><i class="fa fa-comment-o"></i> 82</li>
                                 </ul>
                             </div>
                         </div>
@@ -1138,7 +748,7 @@
                         <div class="section-title">
                             <h5>Subscribe</h5>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, eiusmod tempor.</p>
+                        <p>Sign up to our newsletter to get all the latest insider information</p>
                         <form action="#">
                             <input type="text" placeholder="Name">
                             <input type="text" placeholder="Email">
@@ -1161,48 +771,10 @@
                     <div class="fa-logo">
                         <a href="#"><img src="img/f-logo.png" alt=""></a>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua lacus vel facilisis.</p>
-                    <div class="fa-social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                    </div>
+                    <p align="center">Ave Imperator, morituri te salutant!</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="editor-choice">
-                    <div class="section-title">
-                        <h5>Editor's Choice</h5>
-                    </div>
-                    <div class="ec-item">
-                        <div class="ec-pic">
-                            <img src="img/trending/editor-1.jpg" alt="">
-                        </div>
-                        <div class="ec-text">
-                            <h6><a href="#">A Monster Prom poster got hijacked for a Papa Roach concert...</a>
-                            </h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="ec-item">
-                        <div class="ec-pic">
-                            <img src="img/trending/editor-2.jpg" alt="">
-                        </div>
-                        <div class="ec-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with its augmented...</a>
-                            </h6>
-                            <ul>
-                                <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li><i class="fa fa-comment-o"></i> 12</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="tags-cloud">
@@ -1210,17 +782,17 @@
                         <h5>Tags Cloud</h5>
                     </div>
                     <div class="tag-list">
-                        <a href="#"><span>Gaming</span></a>
-                        <a href="#"><span>Platform</span></a>
-                        <a href="#"><span>Playstation</span></a>
-                        <a href="#"><span>Hardware</span></a>
-                        <a href="#"><span>Reviews</span></a>
-                        <a href="#"><span>Simulation</span></a>
-                        <a href="#"><span>Strategy</span></a>
-                        <a href="#"><span>Scientific</span></a>
-                        <a href="#"><span>References</span></a>
-                        <a href="#"><span>Role-playing</span></a>
-                        <a href="#"><span>Adventurea</span></a>
+                        <a href="#"><span>Spartacus</span></a>
+                        <a href="#"><span>Flamma</span></a>
+                        <a href="#"><span>Murmillo</span></a>
+                        <a href="#"><span>Cestus</span></a>
+                        <a href="#"><span>Retiarius</span></a>
+                        <a href="#"><span>Secutor</span></a>
+                        <a href="#"><span>Bestiarius</span></a>
+                        <a href="#"><span>Thraex</span></a>
+                        <a href="#"><span>Provocator</span></a>
+                        <a href="#"><span>Hoplomachus</span></a>
+                        <a href="#"><span>Samnite</span></a>
                     </div>
                 </div>
             </div>
@@ -1228,13 +800,12 @@
         <div class="copyright-area">
             <div class="row">
                 <div class="col-lg-6">
-
                 </div>
                 <div class="col-lg-6">
                     <div class="ca-links">
-                        <a href="#">About</a>
-                        <a href="#">Subscribe</a>
-                        <a href="#">Contact</a>
+                        <a href="#">Home</a>
+                        <a href="#">Sign up</a>
+                        <a href="#">FAQ</a>
                         <a href="#">Support</a>
                     </div>
                 </div>
