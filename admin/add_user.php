@@ -1,50 +1,75 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="../style.css" />
-</head>
-<body>
-<?php
-require('../connec.php');
+﻿<?php
+// Traitement des données du formulaire -- Si je clique
 
-if (isset($_REQUEST['name'], $_REQUEST['email'], $_REQUEST['password'])){
-	// récupérer le nom d'utilisateur et supprimer les antislashes ajoutés par le formulaire
-	$username = stripslashes($_REQUEST['name']);
-	$username = mysqli_real_escape_string($conn, $username); 
-	// récupérer l'email et supprimer les antislashes ajoutés par le formulaire
-	$email = stripslashes($_REQUEST['email']);
-	$email = mysqli_real_escape_string($conn, $email);
-	// récupérer le mot de passe et supprimer les antislashes ajoutés par le formulaire
-	$password = stripslashes($_REQUEST['password']);
-	$password = mysqli_real_escape_string($conn, $password);
+if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_POST['name'])) {
+    $sql = 'INSERT INTO user (name, email, password) VALUES(:name, :email, :password)';
+    $_SESSION['OUTPUT'] = "HOW THE SHIT";
 
-	$query = "INSERT into `user` (username, email, password)
-				  VALUES ('$username', '$email', '$password')";
-    $res = mysqli_query($conn, $query);
+    $statement = $pdo->prepare($sql);
+    $statement->bindValue(':name', $_POST['name'], PDO::PARAM_STR);
+    $statement->bindValue(':email', $_POST['email'], PDO::PARAM_STR);
+    $statement->bindValue(':password', md5($_POST['password']), PDO::PARAM_STR);
 
-    if($res){
-       echo "<div class='success'>
-             <h3>L'utilisateur a été créée avec succés.</h3>
-             <p>Cliquez <a href='home.php'>ici</a> pour retourner à la page d'accueil</p>
-			 </div>";
+    $statement->execute();
+
+    echo '<meta http-equiv="refresh" content="0;URL=index.php">';
+}
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    $sql = 'SELECT count(*) FROM user WHERE email=:email AND password=:password';
+
+    $statement = $pdo->prepare($sql);
+    $statement->bindValue(':email', $_POST['email'], \PDO::PARAM_STR);
+    $statement->bindValue(':password', md5($_POST['password']), \PDO::PARAM_STR);
+
+    if ($statement->execute()) {
+        $_SESSION['email'] = $_POST['email'];
+        $_SESSION['disconnect'] == false;
+    } else {
+        $_SESSION['email'] = "";
     }
-}else{
-?>
-<form class="box" action="" method="post">
 
-    <h1 class="box-title">Add user</h1>
-	<input type="text" class="box-input" name="username" placeholder="Nom d'utilisateur" required />
-    <input type="text" class="box-input" name="email" placeholder="Email" required />
-	<div class="input-group">
-			<select class="box-input" name="type" id="type" >
-				<option value="" disabled selected>Type</option>
-				<option value="admin">Admin</option>
-				<option value="user">User</option>
-			</select>
-	</div>
-    <input type="password" class="box-input" name="password" placeholder="Mot de passe" required />
-    <input type="submit" name="submit" value="+ Add" class="box-button" />
-</form>
-<?php } ?>
-</body>
-</html>
+    echo '<meta http-equiv="refresh" content="0;URL=index.php">';
+}
+?>
+
+<div class="signup-section">
+    <div class="signup-close"><i class="fa fa-close"></i></div>
+    <div class="signup-text">
+        <div class="container">
+            <div class="signup-title">
+                <h2>Sign up</h2>
+                <p>Fill out the form below to recieve a free and confidential</p>
+            </div>
+            <form class="signup-form" method="get">
+                <div class="sf-input-list">
+                    <input type="text" name="name" class="input-value" placeholder="Name">
+                    <input type="text" name="email" class="input-value" placeholder="Email Address">
+                    <input type="password" name="password" class="input-value" placeholder="Password">
+                </div>
+                <div class="radio-check">
+                    <label for="rc-agree">I agree with the term & conditions
+                        <input type="checkbox" id="rc-agree">
+                        <span class="checkbox"></span>
+                    </label>
+                </div>
+                <button type="submit"><span>REGISTER NOW</span></button>
+            </form>
+    </div>
+        <div class="container">
+            <div class="signup-title">
+                <h2>Log In</h2>
+                <p>Fill out the form below to receive a free and confidential</p>
+            </div>
+
+            <form class="signup-form" method="post">
+                <div class="sf-input-list">
+                    <input type="text" name="email" class="input-value" placeholder="Email Address">
+                    <input type="password" name="password" class="input-value" placeholder="Password">
+                </div>
+                <button type="submit"><span>LOG IN</span></button>
+            </form>
+
+
+        </div>
+</div>
+<!-- Sign Up Section End -->
