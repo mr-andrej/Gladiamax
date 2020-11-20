@@ -56,7 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 </div>
                 <button type="submit"><span>REGISTER NOW</span></button>
             </form>
-    </div>
+        </div>
         <div class="container">
             <div class="signup-title">
                 <h2>Log In</h2>
@@ -73,5 +73,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
         </div>
-</div>
-<!-- Sign Up Section End -->
+    </div>
+    <!-- Sign Up Section End -->
