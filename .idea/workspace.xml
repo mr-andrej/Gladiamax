@@ -19,10 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d47c4e-b83b-465b-9228-b1ab4bd8865d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/burgermenu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="59eea0ae-0485-4586-bd8f-cb51f697aeef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connec.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram/insta-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram/insta-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram/insta-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram/insta-4.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,46 +36,38 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kW3ch8u8pSZ8T609UZwdjuFSSI" />
+  <component name="ProjectId" id="1kW3oZ5Lo9UHBg9FwdjiNuE2EZS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Clonephpstorm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="74d47c4e-b83b-465b-9228-b1ab4bd8865d" name="Default Changelist" comment="" />
-      <created>1605802601640</created>
+      <changelist id="59eea0ae-0485-4586-bd8f-cb51f697aeef" name="Default Changelist" comment="" />
+      <created>1605802696591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605802601640</updated>
-      <workItem from="1605802603274" duration="517000" />
+      <updated>1605802696591</updated>
+      <workItem from="1605802698444" duration="599000" />
+      <workItem from="1605803337950" duration="1937000" />
+      <workItem from="1605816583443" duration="21550000" />
     </task>
     <servers />
   </component>
@@ -88,5 +84,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2155" y="632" width="399" height="156" key="NewPhpFileDialog" timestamp="1605819221803">
+      <screen x="1080" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2155" y="632" width="399" height="156" key="NewPhpFileDialog/1080.0.2560.1440/0.27.1080.1359@1080.0.2560.1440" timestamp="1605819221803" />
   </component>
 </project>
