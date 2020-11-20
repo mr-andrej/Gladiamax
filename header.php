@@ -21,7 +21,6 @@
                                     echo "Sign up / Login";
                                 }
                                 ?>
-
                         </ul>
                     </div>
                 </div>
