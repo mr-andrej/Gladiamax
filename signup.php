@@ -5,7 +5,6 @@
 
 if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_GET['name'])) {
     $sql = 'INSERT INTO user (name, email, password) VALUES(:name, :email, :password)';
-    $_SESSION['OUTPUT'] = "HOW THE SHIT";
 
     $statement = $pdo->prepare($sql);
     $statement->bindValue(':name', $_GET['name'], PDO::PARAM_STR);

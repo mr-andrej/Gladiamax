@@ -33,7 +33,9 @@
     <div class="loader"></div>
 </div>
 
-<?php include "choose_header.php";?>
+<?php require "burgermenu.php" ?>
+
+<?php require "header.php" ?>
 
 <!-- Hero Section Begin -->
 <section class="hero-section">
@@ -261,7 +263,7 @@
                                                     </a></h5>
                                                 <ul>
                                                     <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                     <li><i class="fa fa-comment-o"></i> 20</li>
                                                 </ul>
                                             </div>
@@ -276,7 +278,7 @@
                                                         <h6><a href="#">Flamma humiliates loud-mouthed Gaul
                                                             </a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -292,7 +294,7 @@
                                                                 Centurion
                                                             </a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -308,7 +310,7 @@
                                                                 Retiarius
                                                             </a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -325,7 +327,7 @@
                                                     </a></h5>
                                                 <ul>
                                                     <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                     <li><i class="fa fa-comment-o"></i> 20</li>
                                                 </ul>
                                             </div>
@@ -340,7 +342,7 @@
                                                         <h6><a href="#">Downwell and space hulk: tactics are coming
                                                                 to...</a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -355,7 +357,7 @@
                                                         <h6><a href="#">Downwell and space hulk: tactics are coming
                                                                 to...</a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -370,7 +372,7 @@
                                                         <h6><a href="#">Downwell and space hulk: tactics are coming
                                                                 to...</a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -667,7 +669,7 @@
                     </div>
                     <div class="best-of-post">
                         <div class="section-title">
-                            <h5>Top 4 Gladiators</h5>
+                            <h5>Best of</h5>
                         </div>
                         <div class="bp-item">
                             <div class="bp-loader">
@@ -833,10 +835,8 @@
 <script src="js/circle-progress.min.js"></script>
 <script src="js/jquery.barfiller.js"></script>
 <script src="js/jquery.slicknav.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/apexcharts%22%3E</script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 </body>
 
 </html>
