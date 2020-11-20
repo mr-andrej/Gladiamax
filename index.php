@@ -134,7 +134,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">A monter prom poster got hijacked for a...</a></h6>
+                            <h6><a href="#">Brutal bout between Spartacus and former Centurion</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Jan 11, 81 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 7</li>
@@ -156,7 +156,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <h6><a href="#">One sided combat between a Murmillo and unarmed Retiarious</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Feb 19, 81 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 21</li>
@@ -178,7 +178,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <h6><a href="#">New gladiators leave much to be desired. More fit for the mines?</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Apr 29, 80 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
@@ -200,7 +200,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <h6><a href="#">An entertaining show of skill yet both poor in conditioning</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Jun 13, 80 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 12</li>
@@ -222,7 +222,8 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Facebook wants to read your thoughts with...</a></h6>
+                            <h6><a href="#">Intense five minutes between a visiting Murmillo and a local Retiarious</a>
+                            </h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Dec 21, 79 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 11</li>
@@ -237,26 +238,17 @@
 <!-- Latest Preview Section End -->
 
 <!-- Update News Section Begin -->
-<section class="update-news-section">
+<section class="update-news-section notransition">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
                 <div class="section-title">
-                    <h5><span>News & update</span></h5>
+                    <h5><span>Latest news from Nimmes</span></h5>
                 </div>
                 <div class="tab-elem">
                     <ul class="nav nav-tabs" role="tablist">
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab">All</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab">Platform</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab">Hardware</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-4" role="tab">Reviews</a>
                         </li>
                     </ul><!-- Tab panes -->
                     <div class="tab-content">
@@ -388,390 +380,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="tabs-2" role="tabpanel">
-                            <div class="row">
-                                <div class="un-slider owl-carousel">
-                                    <div class="col-lg-12">
-                                        <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
-                                            <div class="ub-text">
-                                                <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
-                                                <ul>
-                                                    <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 20</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-3.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-4.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-2.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
-                                            <div class="ub-text">
-                                                <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
-                                                <ul>
-                                                    <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 20</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-3.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-4.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-2.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="tabs-3" role="tabpanel">
-                            <div class="row">
-                                <div class="un-slider owl-carousel">
-                                    <div class="col-lg-12">
-                                        <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
-                                            <div class="ub-text">
-                                                <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
-                                                <ul>
-                                                    <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 20</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-3.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-4.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-2.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
-                                            <div class="ub-text">
-                                                <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
-                                                <ul>
-                                                    <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 20</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-3.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-4.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-2.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="tabs-4" role="tabpanel">
-                            <div class="row">
-                                <div class="un-slider owl-carousel">
-                                    <div class="col-lg-12">
-                                        <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
-                                            <div class="ub-text">
-                                                <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
-                                                <ul>
-                                                    <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 20</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-3.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-4.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-2.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="un-big-item set-bg" data-setbg="img/news/news-1.jpg">
-                                            <div class="ub-text">
-                                                <div class="label"><span>Reviews</span></div>
-                                                <h5><a href="#">Get one of our favorite nvme ssds, the 2tb samsung
-                                                        970 evo, for $120 less than nomal</a></h5>
-                                                <ul>
-                                                    <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                    <li><i class="fa fa-comment-o"></i> 20</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-3.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-4.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="un-item">
-                                                    <div class="un_pic set-bg" data-setbg="img/news/news-2.jpg">
-                                                        <div class="label"><span>Reviews</span></div>
-                                                    </div>
-                                                    <div class="un_text">
-                                                        <h6><a href="#">Downwell and space hulk: tactics are coming
-                                                                to...</a></h6>
-                                                        <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                                            <li><i class="fa fa-comment-o"></i> 20</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>

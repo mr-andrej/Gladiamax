@@ -31,6 +31,13 @@
 
 /* Template default CSS
 /*----------------------------------------*/
+.notransition {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+}
+
 
 html,
 body {
@@ -1124,6 +1131,7 @@ video[poster] {
 .hero-section .container {
     position: relative;
     z-index: 9;
+
 }
 
 .hs-text {
@@ -1457,6 +1465,7 @@ video[poster] {
     background: #0d0d0d;
     padding-top: 65px;
     padding-bottom: 30px;
+
 }
 
 .tab-elem .nav-tabs {
@@ -1464,6 +1473,10 @@ video[poster] {
     position: absolute;
     right: 36px;
     top: 2px;
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
 }
 
 .tab-elem .nav-item {
@@ -4279,3 +4292,5 @@ video[poster] {
         font-size: 28px;
     }
 }
+
+
