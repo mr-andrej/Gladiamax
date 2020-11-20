@@ -15,7 +15,7 @@ $result=$statement->fetchAll();
     <meta name="keywords" content="Amin, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>CATEGORY</title>
+    <title>Gladiamax</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap"
@@ -51,10 +51,11 @@ $result=$statement->fetchAll();
                     <h5>THE DIFFERENT CATEGORY OF GLADIATOR</h5>
                 </div>
             <?php
+            $temporaryCounter = 1; // Use $row['id'] when you come back
             foreach( $result as $row ) {
                 echo '<div class="ip-item">';
                 echo '<div class="ip-pic">';
-                echo '<img src="img/instagram/insta-11.jpg" alt="">';
+                echo '<img src="img/instagram/insta-1'. $temporaryCounter++ . '.jpg" alt="">';
                 echo '</div>';
                 echo '<div class="ip-text">';
                 echo '<div class="label"><span>Reviews</span></div>';
@@ -69,78 +70,9 @@ $result=$statement->fetchAll();
                 echo '<p>'. $row['description'] . '</p>';
                 echo '</div>';
                 echo '</div>';
-
             }
             ?>
 
-            <?php
-            foreach( $result as $row ) {
-                    echo '<div class="ip-item">';
-                    echo '<div class="ip-pic">';
-                    echo '<img src="img/instagram/insta-22.jpg" alt="">';
-                    echo '</div>';
-                    echo '<div class="ip-text">';
-                    echo '<div class="label"><span>Reviews</span></div>';
-                    echo '<h5><a href="#">' . $row['name'] . '</a></h5>';
-
-
-                    echo '<ul>';
-                    echo '<li>by <span>Admin</span></li>';
-                    echo '<li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>';
-                    echo '<li><i class="fa fa-comment-o"></i> 20</li>';
-                    echo '</ul>';
-                    echo '<p>'. $row['description'] . '</p>';
-                    echo '</div>';
-                    echo '</div>';
-
-            }
-            ?>
-
-                <?php
-                foreach( $result as $row ) {
-                    echo '<div class="ip-item">';
-                    echo '<div class="ip-pic">';
-                    echo '<img src="img/instagram/insta-33.jpg" alt="">';
-                    echo '</div>';
-                    echo '<div class="ip-text">';
-                    echo '<div class="label"><span>Reviews</span></div>';
-                    echo '<h5><a href="#">' . $row['name'] . '</a></h5>';
-
-
-                    echo '<ul>';
-                    echo '<li>by <span>Admin</span></li>';
-                    echo '<li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>';
-                    echo '<li><i class="fa fa-comment-o"></i> 20</li>';
-                    echo '</ul>';
-                    echo '<p>'. $row['description'] . '</p>';
-                    echo '</div>';
-                    echo '</div>';
-
-                }
-                ?>
-
-                <?php
-                foreach( $result as $row ) {
-                    echo '<div class="ip-item">';
-                    echo '<div class="ip-pic">';
-                    echo '<img src="img/instagram/insta-44.jpg" alt="">';
-                    echo '</div>';
-                    echo '<div class="ip-text">';
-                    echo '<div class="label"><span>Reviews</span></div>';
-                    echo '<h5><a href="#">' . $row['name'] . '</a></h5>';
-
-
-                    echo '<ul>';
-                    echo '<li>by <span>Admin</span></li>';
-                    echo '<li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>';
-                    echo '<li><i class="fa fa-comment-o"></i> 20</li>';
-                    echo '</ul>';
-                    echo '<p>'. $row['description'] . '</p>';
-                    echo '</div>';
-                    echo '</div>';
-
-                }
-                ?>
             </div>
             <div class="col-lg-4 col-md-7">
                 <div class="sidebar-option">
