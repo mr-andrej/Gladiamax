@@ -50,7 +50,15 @@
   <component name="ChangeListManager">
     <list default="true" id="55c3455e-53d7-43ee-83a8-5a0ae9fb7c15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/burgermenu.php" beforeDir="false" afterPath="$PROJECT_DIR$/burgermenu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+>>>>>>> a9928c0865f3dd5d07aa74a8b93845900498eefe
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605860463203</updated>
-      <workItem from="1605860466069" duration="8201000" />
+      <workItem from="1605860466069" duration="12058000" />
     </task>
     <servers />
   </component>
@@ -115,13 +123,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="693" y="265" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605876673360">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="693" y="265" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.979@0.27.1920.979" timestamp="1605876673360" />
     <state x="755" y="442" width="399" height="156" key="NewPhpFileDialog" timestamp="1605867329157">
       <screen x="0" y="27" width="1920" height="979" />
     </state>
     <state x="755" y="442" width="399" height="156" key="NewPhpFileDialog/0.27.1920.979@0.27.1920.979" timestamp="1605867329157" />
-    <state x="624" y="233" key="run.anything.popup" timestamp="1605854298509">
+    <state x="624" y="233" key="run.anything.popup" timestamp="1605874538453">
       <screen x="0" y="27" width="1920" height="979" />
     </state>
-    <state x="624" y="233" key="run.anything.popup/0.27.1920.979@0.27.1920.979" timestamp="1605854298509" />
+    <state x="624" y="233" key="run.anything.popup/0.27.1920.979@0.27.1920.979" timestamp="1605874538453" />
   </component>
 </project>
