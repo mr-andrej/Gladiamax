@@ -263,7 +263,7 @@
                                                     </a></h5>
                                                 <ul>
                                                     <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                     <li><i class="fa fa-comment-o"></i> 20</li>
                                                 </ul>
                                             </div>
@@ -278,7 +278,7 @@
                                                         <h6><a href="#">Flamma humiliates loud-mouthed Gaul
                                                             </a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -294,7 +294,7 @@
                                                                 Centurion
                                                             </a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -310,7 +310,7 @@
                                                                 Retiarius
                                                             </a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -327,7 +327,7 @@
                                                     </a></h5>
                                                 <ul>
                                                     <li>by <span>Admin</span></li>
-                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                    <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                     <li><i class="fa fa-comment-o"></i> 20</li>
                                                 </ul>
                                             </div>
@@ -342,7 +342,7 @@
                                                         <h6><a href="#">Downwell and space hulk: tactics are coming
                                                                 to...</a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -357,7 +357,7 @@
                                                         <h6><a href="#">Downwell and space hulk: tactics are coming
                                                                 to...</a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -372,7 +372,7 @@
                                                         <h6><a href="#">Downwell and space hulk: tactics are coming
                                                                 to...</a></h6>
                                                         <ul>
-                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
+                                                            <li><i class="fa fa-clock-o"></i> Aug 01, 72 B.C.</li>
                                                             <li><i class="fa fa-comment-o"></i> 20</li>
                                                         </ul>
                                                     </div>
@@ -669,7 +669,7 @@
                     </div>
                     <div class="best-of-post">
                         <div class="section-title">
-                            <h5>Best of</h5>
+                            <h5>Top 4 Gladiators</h5>
                         </div>
                         <div class="bp-item">
                             <div class="bp-loader">
