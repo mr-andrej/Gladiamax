@@ -112,7 +112,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Lenovo’s y540 gaming laptop with an rtx 2060...</a></h6>
+                            <h6><a href="#">Flamma humiliates loud-mouthed Gaul</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Aug 22, 82 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 17</li>
