@@ -21,10 +21,7 @@
                                     echo "Sign up / Login";
                                 }
                                 ?>
-                            <li><i class="fa fa-sun-o"></i> <span>20<sup>c</sup></span> London</li> <!-- API FOR CITY + TEMPERATURE HERE -->
-                            <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li> <!-- ADD REAL DATE AND TIME -->
-                            <li class="signup-switch signup-open"><i class="fa fa-sign-out"></i> Login / Sign up
-                            </li>
+
                         </ul>
                     </div>
                 </div>
