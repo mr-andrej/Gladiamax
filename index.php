@@ -43,13 +43,13 @@
         <div class="row">
             <div class="col-lg-6 col-md-6">
                 <div class="hs-text">
-                    <div class="label"><span>Playstation</span></div>
-                    <h3>Downwell and Space Hulk: Tactics are coming to Xbox Game Pass for PC</h3>
+                    <div class="label"><span>LATEST NEWS</span></div>
+                    <h3>Commodus wins first bout: Skill or patrician trickery?</h3>
                     <div class="ht-meta">
                         <img src="img/hero/meta-pic.jpg" alt="">
                         <ul>
-                            <li>by Marcin Jankowski</li>
-                            <li>Aug 01, 2019</li>
+                            <li>by Spartacus of Thrace</li>
+                            <li>Aug 13, 65 B.C.</li>
                         </ul>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                         <div class="lp-text">
-                            <h6><a href="#">Teamfight Tactics is in chaos after patch...</a></h6>
+                            <h6><a href="#">Cassius badly wounded in bout against Maximus</a></h6>
                             <ul>
                                 <li><i class="fa fa-clock-o"></i> Aug 01, 82 B.C.</li>
                                 <li><i class="fa fa-comment-o"></i> 2</li>
@@ -166,7 +166,7 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="lp-item">
-                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
+                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-5.jpg">
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="lp-item">
-                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
+                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-6.jpg">
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
@@ -210,7 +210,7 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="lp-item">
-                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-4.jpg">
+                        <div class="lp-pic set-bg" data-setbg="img/latest-preview/lp-7.jpg">
                             <div class="review-loader">
                                 <div class="loader-circle-wrap">
                                     <div class="loader-circle">
