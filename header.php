@@ -6,8 +6,8 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="ht-widget">
                         <ul>
-                            <li><i class="fa fa-sun-o"></i> <span>20<sup>c</sup></span> London</li>
-                            <!-- API CITY AND TEMPERATURE -->
+                          <li><i class="fa fa-sun-o"></i> <span><?=((int) $response['main']['temp']);?><sup>c</sup></span> <?= $response['name'];?></li>
+
                             <li><i class="fa fa-clock-o"></i> <?php echo date("D j M, Y"); ?></li> <!-- CORRECT DATE -->
                             <li class="signup-switch signup-open"><i class="fa fa-sign-out">
                                     <?php
