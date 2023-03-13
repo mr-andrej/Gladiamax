@@ -13,7 +13,7 @@ curl_setopt_array($curl, [
     CURLOPT_CUSTOMREQUEST => "GET",
     CURLOPT_HTTPHEADER => [
         "x-rapidapi-host: community-open-weather-map.p.rapidapi.com",
-        "x-rapidapi-key: e91228e30bmshba6b2e4f20b4040p1b8e39jsndeea3925c5fe"
+        "x-rapidapi-key: dead-key-was-in-use"
     ],
 ]);
 
